@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeeTeamShop</string>
+    <string name="communication_error">Error retrieve data</string>
+
+    <string name="product_ref">Ref: %1$s</string>
+    <string name="product_price">%1$s ₴</string>
+</resources>
